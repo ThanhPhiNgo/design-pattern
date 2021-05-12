@@ -22,3 +22,7 @@ Reference: https://gpcoder.com/4352-huong-dan-java-design-pattern-factory-method
 ### Abstract factory
 
 Reference: https://gpcoder.com/4365-huong-dan-java-design-pattern-abstract-factory/
+
+### Prototype
+
+Reference: https://gpcoder.com/4413-huong-dan-java-design-pattern-prototype/
