@@ -14,3 +14,7 @@ Should:
 1. Bill Pugh Singleton for performance
 2. Lazy Singleton for single thread
 3. Thread safe Singleton for multi thread
+
+### Factory method
+
+Reference: https://gpcoder.com/4352-huong-dan-java-design-pattern-factory-method/
