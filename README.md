@@ -50,3 +50,11 @@ Reference: https://gpcoder.com/4520-huong-dan-java-design-pattern-bridge/
 ### Composite
 
 Reference: https://gpcoder.com/4554-huong-dan-java-design-pattern-composite/
+
+### Decorator
+
+Reference: https://gpcoder.com/4574-huong-dan-java-design-pattern-decorator/
+
+> :warning: Note: <br/>
+In this code, we can only add new features to the object. We cannot remove the previous features of this object.<br/>
+*Example*: Manager becomes TeamLeader, TeamLeader still doTask of Manager. **This is Problem**
