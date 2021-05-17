@@ -34,3 +34,11 @@ Reference: https://gpcoder.com/4434-huong-dan-java-design-pattern-builder/
 ### Object pool
 
 Reference: https://gpcoder.com/4456-huong-dan-java-design-pattern-object-pool/
+
+<hr/>
+
+## Structural
+
+### Adapter
+
+Reference: https://gpcoder.com/4483-huong-dan-java-design-pattern-adapter/
