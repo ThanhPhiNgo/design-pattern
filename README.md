@@ -43,7 +43,10 @@ Reference: https://gpcoder.com/4456-huong-dan-java-design-pattern-object-pool/
 
 Reference: https://gpcoder.com/4483-huong-dan-java-design-pattern-adapter/
 
-
 ### Bridge
 
 Reference: https://gpcoder.com/4520-huong-dan-java-design-pattern-bridge/
+
+### Composite
+
+Reference: https://gpcoder.com/4554-huong-dan-java-design-pattern-composite/
