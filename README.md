@@ -30,3 +30,7 @@ Reference: https://gpcoder.com/4413-huong-dan-java-design-pattern-prototype/
 ### Builder
 
 Reference: https://gpcoder.com/4434-huong-dan-java-design-pattern-builder/
+
+### Object pool
+
+Reference: https://gpcoder.com/4456-huong-dan-java-design-pattern-object-pool/
