@@ -1,0 +1,24 @@
+package com.phint2.pattern.structural.composite;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class Client {
+
+	public static void main(String[] args) {
+
+		FileComponent file1 = new FileLeaf("file 1", 10);
+		FileComponent file2 = new FileLeaf("file 2", 5);
+		FileComponent file3 = new FileLeaf("file 3", 12);
+		FileComponent file4 = new FileLeaf("file 4", 35);
+
+		List<FileComponent> files = Arrays.asList(file1, file2, file3);
+		FileComponent folderA = new FolderComposite(files);
+
+		List<FileComponent> files2 = Arrays.asList(folderA, file4);
+		FileComponent folderB = new FolderComposite(files2);
+
+		folderB.showProperty();
+		System.out.println("Total Size: " + folderB.totalSize());
+	}
+}
