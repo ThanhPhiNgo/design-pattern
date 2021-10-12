@@ -56,5 +56,9 @@ Reference: https://gpcoder.com/4554-huong-dan-java-design-pattern-composite/
 Reference: https://gpcoder.com/4574-huong-dan-java-design-pattern-decorator/
 
 > :warning: Note: <br/>
-In this code, we can only add new features to the object. We cannot remove the previous features of this object.<br/>
-*Example*: Manager becomes TeamLeader, TeamLeader still doTask of Manager. **This is Problem**
+> In this code, we can only add new features to the object. We cannot remove the previous features of this object.<br/>
+> _Example_: Manager becomes TeamLeader, TeamLeader still doTask of Manager. **This is Problem**
+
+### Facade
+
+Reference: https://gpcoder.com/4604-huong-dan-java-design-pattern-facade/
