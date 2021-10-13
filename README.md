@@ -62,3 +62,8 @@ Reference: https://gpcoder.com/4574-huong-dan-java-design-pattern-decorator/
 ### Facade
 
 Reference: https://gpcoder.com/4604-huong-dan-java-design-pattern-facade/
+
+### Flyweight
+
+Reference: https://gpcoder.com/4626-huong-dan-java-design-pattern-flyweight/
+Review: Good for create character in game
