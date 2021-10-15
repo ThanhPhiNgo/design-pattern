@@ -70,6 +70,14 @@ Reference: https://gpcoder.com/4626-huong-dan-java-design-pattern-flyweight/
 
 ### Proxy
 
-https://gpcoder.com/4644-huong-dan-java-design-pattern-proxy/
+Reference: https://gpcoder.com/4644-huong-dan-java-design-pattern-proxy/
 
 > Review: Useful for lazy loading
+
+<hr/>
+
+## Behavior
+
+### Chain of Responsibility
+
+Reference: https://gpcoder.com/4665-huong-dan-java-design-pattern-chain-of-responsibility/
