@@ -56,8 +56,7 @@ Reference: https://gpcoder.com/4554-huong-dan-java-design-pattern-composite/
 Reference: https://gpcoder.com/4574-huong-dan-java-design-pattern-decorator/
 
 > :warning: Note: <br/>
-> In this code, we can only add new features to the object. We cannot remove the previous features of this object.<br/>
-> _Example_: Manager becomes TeamLeader, TeamLeader still doTask of Manager. **This is Problem**
+> In this code, we can only add new features to the object. We cannot remove the previous features of this object.<br/> > _Example_: Manager becomes TeamLeader, TeamLeader still doTask of Manager. **This is Problem**
 
 ### Facade
 
@@ -66,4 +65,11 @@ Reference: https://gpcoder.com/4604-huong-dan-java-design-pattern-facade/
 ### Flyweight
 
 Reference: https://gpcoder.com/4626-huong-dan-java-design-pattern-flyweight/
-Review: Good for create character in game
+
+> Review: Good for create character in game
+
+### Proxy
+
+https://gpcoder.com/4644-huong-dan-java-design-pattern-proxy/
+
+> Review: Useful for lazy loading
