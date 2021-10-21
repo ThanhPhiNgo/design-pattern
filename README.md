@@ -81,3 +81,5 @@ Reference: https://gpcoder.com/4644-huong-dan-java-design-pattern-proxy/
 ### Chain of Responsibility
 
 Reference: https://gpcoder.com/4665-huong-dan-java-design-pattern-chain-of-responsibility/
+
+> Review: Suitable for create and push Alert through applications (tools) by level
