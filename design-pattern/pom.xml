@@ -6,7 +6,7 @@
 
     <groupId>com.phint2</groupId>
     <artifactId>design-pattern</artifactId>
-    <version>2.6.0</version>
+    <version>3.0.0</version>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
