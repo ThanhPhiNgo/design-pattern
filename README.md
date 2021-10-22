@@ -82,4 +82,7 @@ Reference: https://gpcoder.com/4644-huong-dan-java-design-pattern-proxy/
 
 Reference: https://gpcoder.com/4665-huong-dan-java-design-pattern-chain-of-responsibility/
 
-> Review: Suitable for create and push Alert through applications (tools) by level
+> Review:
+>
+> -   Suitable for create and push Alert through applications (tools) by level
+> -   Summary: Execute an action by level chain, which has corresponding condition for each level
