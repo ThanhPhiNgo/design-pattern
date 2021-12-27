@@ -86,3 +86,7 @@ Reference: https://gpcoder.com/4665-huong-dan-java-design-pattern-chain-of-respo
 >
 > -   Suitable for create and push Alert through applications (tools) by level
 > -   Summary: Execute an action by level chain, which has corresponding condition for each level
+
+### Command
+
+Reference: https://gpcoder.com/4686-huong-dan-java-design-pattern-command/
